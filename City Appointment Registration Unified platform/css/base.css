@@ -1,0 +1,24 @@
+p{
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+/* #top模块内界面 样式*/
+.top{
+  line-height: 30px;
+  font-size: 13px;
+  color: #868686;
+}
+
+.top .call{
+  float: left;
+  padding-left: 20px;
+  background:url(../img/icon-call.png) no-repeat center left;
+}
+.top .welcome{
+  float: right;
+}
+.top a{
+  color: #2DA5E1;
+  padding-left: 10px;
+}
