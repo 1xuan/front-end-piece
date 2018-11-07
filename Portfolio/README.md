@@ -7,4 +7,5 @@
 - Double our available icons by folding Font Awesome into our workflow
 
 *DEMO*
-![index picture]()
+
+![index picture](https://github.com/1xuan/front-end-pieces/blob/master/Portfolio/index%20page.png)
